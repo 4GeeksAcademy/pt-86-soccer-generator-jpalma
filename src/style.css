@@ -1,5 +1,20 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: lightgreen;
+    
 }
+h1{
+    text-decoration:underline;
+
+}
+.soccer{
+    font-weight:bold;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+
